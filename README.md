@@ -1,83 +1,96 @@
-# 👋 Hi, I'm Krisha Shah
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D6BE4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Krisha+Shah+%F0%9F%91%8B;Data+Analyst+%7C+ML+Engineer;Turning+Data+into+Decisions" alt="Typing SVG" />
+</h1>
 
-📊 Aspiring Data Analyst | Python | SQL | Power BI
-🎓 B.Sc. IT Student @ NM College, Mumbai
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishas7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:krishas707@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=krishas-7&style=for-the-badge&color=2D6BE4" alt="Profile views"/>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I am a final-year B.Sc. IT student passionate about analyzing data and extracting meaningful insights.
-I have hands-on experience in Python, SQL, Excel, and Machine Learning, along with building real-world projects involving data pipelines, prediction models, and automation systems.
-
-I enjoy solving problems using data and continuously improving my analytical and technical skills.
+```python
+krisha = {
+    "location"   : "Mumbai, India 🇮🇳",
+    "education"  : "B.Sc. Information Technology — NM College (2023–2026)",
+    "focus"      : ["Data Analysis", "Machine Learning", "Pipeline Automation"],
+    "tools"      : ["Python", "SQL", "Power BI", "Dagster", "Excel"],
+    "currently"  : "Building data-driven solutions & seeking Analyst roles",
+    "fun_fact"   : "I automated a stock prediction pipeline to run 60% faster ⚡"
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📊 Data & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA4444?style=flat&logo=xgboost&logoColor=white)
-![Dagster](https://img.shields.io/badge/Dagster-6C63FF?style=flat&logo=dagster&logoColor=white)
+**Languages & Querying**
 
-### 🗄️ Databases & Querying
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### 📈 BI & Visualisation
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+**Data & Analytics**
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Tools & Platforms**
+
+![Dagster](https://img.shields.io/badge/Dagster-5E4FF6?style=flat-square&logo=dagster&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 📈 Banking Stock Prediction Pipeline
-
-* Built ML pipeline using Dagster
-* Reduced execution time by ~60%
-* Used Decision Tree, Random Forest, Logistic Regression, KNN
-
-### 🌱 Smart Irrigation Prediction
-
-* Solved classification problem with imbalanced dataset
-* Applied XGBoost and Random Forest
-* Evaluated using multiple performance metrics
-
-### 🧾 Automated OMR Grading System
-
-* Automated Excel-based grading using pandas
-* Reduced manual effort and improved accuracy
-
-### 🗄️ Event Management SQL System
-
-* Designed normalized database (3NF)
-* Implemented complex SQL queries and relationships
+| Project | Description | Stack |
+|---|---|---|
+| [🏦 Banking Stock Prediction Pipeline](https://github.com/krishas-7/banking-stock-prediction-pipeline) | End-to-end ML pipeline with **60% faster execution** using Dagster orchestration | Python · Dagster · ML |
+| [🌾 Smart Farming – Irrigation Prediction](https://github.com/krishas-7/smart-farming-irrigation-prediction) | Supervised classification to predict crop water needs using soil & weather data | Python · XGBoost · Random Forest |
+| [📧 AI Email Responder](https://github.com/krishas-7/ai-email-responder) | Gmail add-on using Gemini API to auto-draft context-aware professional replies | Google Apps Script · Gemini API |
+| [🔐 AI Cyber Range](https://github.com/krishas-7/ai-cyber-range) | Web-based cybersecurity training platform with AI feedback & certification | Flask · Python · SQLite |
+| [🗄️ Event Management DB System](https://github.com/krishas-7/event-management-db) | Fully normalized (3NF) relational database with complex SQL across 5 entities | MySQL · SQL |
+| [📝 OMR Sheet Grading System](https://github.com/krishas-7/omr-sheet-grading) | Automated student answer sheet evaluation using Python & Pandas | Python · Pandas · Excel |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Krisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishas-7\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishas-7&show_icons=true&theme=default&border_color=2D6BE4&title_color=2D6BE4&icon_color=2D6BE4&hide_border=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishas-7&layout=compact&theme=default&border_color=2D6BE4&title_color=2D6BE4&hide_border=false" height="165"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Certifications
 
-* LinkedIn: https://www.linkedin.com/in/krishas7
-* Email: [krishas707@gmail.com](mailto:krishas707@gmail.com)
+- 📊 Data Analytics Job Simulation — Forage (2025)
+- 🔐 Cybersecurity Job Simulation — Forage (2025)
+- 📗 Basic to Advanced Excel — NM College (2024)
+- 🌐 Web Development — NM College (2023)
 
 ---
 
-⭐ Open to internships and entry-level Data Analyst roles
+## 🤝 Leadership
+
+- 🎓 Student Coordinator, Training & Placement Cell — NM College (2023–2026)
+- ❤️ Volunteer, Blood Donation Camp — Tata Memorial Hospital (2024)
+
+---
+
+<p align="center">
+  <i>Open to Data Analyst & Junior Technology roles. Let's connect!</i><br/>
+  <a href="mailto:krishas707@gmail.com">krishas707@gmail.com</a> · Mumbai, India
+</p>
