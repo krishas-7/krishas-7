@@ -59,7 +59,6 @@ krisha = {
 | [🏦 Banking Stock Prediction Pipeline](https://github.com/krishas-7/banking-stock-prediction-pipeline) | End-to-end ML pipeline with **60% faster execution** using Dagster orchestration | Python · Dagster · ML |
 | [🌾 Smart Farming – Irrigation Prediction](https://github.com/krishas-7/smart-farming-irrigation-prediction) | Supervised classification to predict crop water needs using soil & weather data | Python · XGBoost · Random Forest |
 | [📧 AI Email Responder](https://github.com/krishas-7/ai-email-responder) | Gmail add-on using Gemini API to auto-draft context-aware professional replies | Google Apps Script · Gemini API |
-| [🔐 AI Cyber Range](https://github.com/krishas-7/ai-cyber-range) | Web-based cybersecurity training platform with AI feedback & certification | Flask · Python · SQLite |
 | [🗄️ Event Management DB System](https://github.com/krishas-7/event-management-db) | Fully normalized (3NF) relational database with complex SQL across 5 entities | MySQL · SQL |
 | [📝 OMR Sheet Grading System](https://github.com/krishas-7/omr-sheet-grading) | Automated student answer sheet evaluation using Python & Pandas | Python · Pandas · Excel |
 
